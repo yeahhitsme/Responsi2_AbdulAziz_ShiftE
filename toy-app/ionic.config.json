@@ -1,0 +1,7 @@
+{
+  "name": "toy-app",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
